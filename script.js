@@ -1,6 +1,6 @@
 function firstChar(text) {
   // your code here
-	let st = trim.Start(test);
+	let st = test.trimStart();
 	if(st.length == 0) return '';
 	return st[0];
 }
